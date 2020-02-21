@@ -1,4 +1,5 @@
 ## delimiting gene/protein orthogroups
+divide genes into several orthogroups according to homologues
 - OrthoFinder
 - BLAST
 	- substitution matrix
@@ -13,5 +14,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0NzgsLTg3NDAzODUwMl19
+eyJoaXN0b3J5IjpbLTE4ODMxNTUyMTAsNjA0NzgsLTg3NDAzOD
+UwMl19
 -->
