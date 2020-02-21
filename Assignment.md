@@ -1,4 +1,8 @@
 ## delimiting gene/protein orthogroups
+- OrthoFinder
+- BLAST
+- 
+- MCL
 ## reconstructing species phylogeny
 ## reconstructing gene/protein phylogeny
 ## reconciling gene phylogeny and species phylogeny
@@ -8,5 +12,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDAzODUwMl19
+eyJoaXN0b3J5IjpbMTg1MjkwMjg0NiwtODc0MDM4NTAyXX0=
 -->
