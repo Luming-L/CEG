@@ -8,6 +8,7 @@ divide genes into several orthogroups according to homologues
 ## reconstructing species phylogeny
 - choose two orthogroups
 - make a protein multiple alignment
+- check alignment results
 ## reconstructing gene/protein phylogeny
 ## reconciling gene phylogeny and species phylogeny
 ## discussing results
@@ -16,6 +17,6 @@ divide genes into several orthogroups according to homologues
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQwOTA4OTQsLTE4ODMxNTUyMTAsNj
-A0NzgsLTg3NDAzODUwMl19
+eyJoaXN0b3J5IjpbLTE0MjY5MTIxODIsLTE2ODQwOTA4OTQsLT
+E4ODMxNTUyMTAsNjA0NzgsLTg3NDAzODUwMl19
 -->
