@@ -7,7 +7,7 @@ divide genes into several orthogroups according to homologues
 	- inflation parameter
 ## reconstructing species phylogeny
 - choose two orthogroups
-- 
+- make a protein multiple alignment
 ## reconstructing gene/protein phylogeny
 ## reconciling gene phylogeny and species phylogeny
 ## discussing results
@@ -16,6 +16,6 @@ divide genes into several orthogroups according to homologues
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDk1MTIxLC0xODgzMTU1MjEwLDYwND
-c4LC04NzQwMzg1MDJdfQ==
+eyJoaXN0b3J5IjpbLTE2ODQwOTA4OTQsLTE4ODMxNTUyMTAsNj
+A0NzgsLTg3NDAzODUwMl19
 -->
