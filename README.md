@@ -7,7 +7,7 @@ A possible workflow for building supermatrix:
  2. Make a multiple alignment of each orthogroup, respectively.
  3. Concatenate the alignments. The length of one concatenated alignment is the sum of each orthogroup's MSA length.
 
-(Barker, D 2020, _Lecture 4: Phylogeny_, lecture notes, Comparative and Evolutionary Genomics BMO6624, Victoria University, delivered 21 May 2018.)
+(Barker, D 2020, _Lecture 4: Phylogeny_, lecture notes, Comparative and Evolutionary Genomics PGBI11115, The University of Edinburgh, delivered 21 May 2020.)
 # Requirements
  - Python 3
  - Bio
@@ -22,6 +22,6 @@ A possible workflow for building supermatrix:
 python3 MakeSupermatrix.py MSAfileNames.txt
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDA4NzI0MzksLTE1NTc1NTc2ODksLT
-Q2NDU3NTA1MiwtMTEyODQ4ODQ0Ml19
+eyJoaXN0b3J5IjpbLTE2MzE2Mzc4ODAsLTExNDA4NzI0MzksLT
+E1NTc1NTc2ODksLTQ2NDU3NTA1MiwtMTEyODQ4ODQ0Ml19
 -->
