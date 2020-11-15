@@ -5,10 +5,7 @@ A possible workflow for building supermatrix:
 
  1. Find ‘universal single-copy’ orthologues across the taxonomic group.
  2. Make a multiple alignment of each orthogroup, respectively.
- 3. Concatenate the alignments:
-  – Input: n multiple alignments, each for the same m species but for a different orthogroup, with lengths l 1 , l 2 , l 3 , … l n
-
- 
+ 3. Concatenate the alignments.
 # Requirements
  - Python 3
  - Bio
@@ -23,6 +20,6 @@ A possible workflow for building supermatrix:
 python3 MakeSupermatrix.py MSAfileNames.txt
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc1NTc2ODksLTQ2NDU3NTA1MiwtMT
-EyODQ4ODQ0Ml19
+eyJoaXN0b3J5IjpbLTEwNjk4NzczMDgsLTE1NTc1NTc2ODksLT
+Q2NDU3NTA1MiwtMTEyODQ4ODQ0Ml19
 -->
