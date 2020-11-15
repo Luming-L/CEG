@@ -1,5 +1,5 @@
 # Introduction
-In evolutionary biology, the supermatrix method concatenates sequences from multiple genes into a data supermatrix for phylogenetic analysis
+In evolutionary biology, "supermatrix" is a data matrix used tomethod concatenates sequences from multiple genes into a data supermatrix for phylogenetic analysis
 # Requirements
  - Python 3
  - Bio
@@ -14,6 +14,6 @@ In evolutionary biology, the supermatrix method concatenates sequences from mult
 python3 MakeSupermatrix.py MSAfileNames.txt
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTI1NTU0NCwtNDY0NTc1MDUyLC0xMT
+eyJoaXN0b3J5IjpbLTQ3OTQwMzg5NSwtNDY0NTc1MDUyLC0xMT
 I4NDg4NDQyXX0=
 -->
