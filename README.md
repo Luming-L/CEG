@@ -3,7 +3,7 @@ In evolutionary biology, "supermatrix" is a data matrix used to reconstruct geno
 
 A possible workflow for building supermatrix:
 
- 1. Find ‘universal single-copy’ orthologues across the taxonomic group ().
+ 1. Find ‘universal single-copy’ orthologues across the taxonomic group (OrthoFinder ).
  2. Make a multiple alignment of each orthogroup, respectively.
  3. Concatenate the alignments. The length of one concatenated alignment is the sum of each orthogroup's MSA length.
 
@@ -22,6 +22,6 @@ A possible workflow for building supermatrix:
 python3 MakeSupermatrix.py MSAfileNames.txt
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjEwNDA3MSwtMTE0MDg3MjQzOSwtMT
-U1NzU1NzY4OSwtNDY0NTc1MDUyLC0xMTI4NDg4NDQyXX0=
+eyJoaXN0b3J5IjpbMjE4MTAyNTM3LC0xMTQwODcyNDM5LC0xNT
+U3NTU3Njg5LC00NjQ1NzUwNTIsLTExMjg0ODg0NDJdfQ==
 -->
