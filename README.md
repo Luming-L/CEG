@@ -1,5 +1,5 @@
 # Introduction
-In evolutionary biology, All numerical methods of phylogeny reconstruction require a data matrix. "supermatrix" is a data matrix used to reconstruct phylogeny. method concatenates sequences from multiple genes into a data supermatrix for phylogenetic analysis
+In evolutionary biology, "supermatrix" is a data matrix used to reconstruct phylogeny. method concatenates sequences from multiple genes into a data supermatrix for phylogenetic analysis
 # Requirements
  - Python 3
  - Bio
@@ -14,6 +14,6 @@ In evolutionary biology, All numerical methods of phylogeny reconstruction requi
 python3 MakeSupermatrix.py MSAfileNames.txt
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTA4MDYwNiwtNDY0NTc1MDUyLC0xMT
+eyJoaXN0b3J5IjpbMTk3MDU2OTgzNiwtNDY0NTc1MDUyLC0xMT
 I4NDg4NDQyXX0=
 -->
