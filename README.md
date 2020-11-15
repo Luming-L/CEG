@@ -1,5 +1,6 @@
 # Introduction
 In evolutionary biology, "supermatrix" is a data matrix used to reconstruct genome phylogeny, which contains multiple sequence alignments of multiple genes. 
+
 # Requirements
  - Python 3
  - Bio
@@ -14,6 +15,6 @@ In evolutionary biology, "supermatrix" is a data matrix used to reconstruct geno
 python3 MakeSupermatrix.py MSAfileNames.txt
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzI3NzMxLC00NjQ1NzUwNTIsLTExMj
-g0ODg0NDJdfQ==
+eyJoaXN0b3J5IjpbMjExMzY2NzI5NywtNDY0NTc1MDUyLC0xMT
+I4NDg4NDQyXX0=
 -->
