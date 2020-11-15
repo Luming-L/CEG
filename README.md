@@ -1,6 +1,9 @@
 # Introduction
 
 # Requirements
+ 1. Python 3
+ 2. Bio
+ 3. 
 
 # Input
 
@@ -11,5 +14,5 @@
 python3 MakeSupermatrix.py MSAfileNames.txt
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjg0ODg0NDJdfQ==
+eyJoaXN0b3J5IjpbMTUwODk3NzA4NywtMTEyODQ4ODQ0Ml19
 -->
