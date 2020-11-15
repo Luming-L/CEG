@@ -18,11 +18,11 @@ A possible workflow for building supermatrix:
 # Output
  - the supermatrix, like `supermatrix.fa` in `MSA/testFiles/Output`.
 # Command
-```python
+```
 python3 MakeSupermatrix.py MSAfileNames.txt
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzMTU2MTE5LDE2ODcxNTgzMjQsLTExND
-A4NzI0MzksLTE1NTc1NTc2ODksLTQ2NDU3NTA1MiwtMTEyODQ4
-ODQ0Ml19
+eyJoaXN0b3J5IjpbLTUyMjc4NTgwNSwxNjg3MTU4MzI0LC0xMT
+QwODcyNDM5LC0xNTU3NTU3Njg5LC00NjQ1NzUwNTIsLTExMjg0
+ODg0NDJdfQ==
 -->
