@@ -1,11 +1,13 @@
 # Introduction
-In evolutionary biology, "supermatrix" is a data matrix used to reconstruct genome phylogeny, which contains multiple sequence alignments of multiple genes. 
+In evolutionary biology, "supermatrix" is a data matrix used to reconstruct genome phylogeny, which contains multiple sequence alignments (MSA) of multiple genes. 
 
 A possible workflow for building supermatrix:
 
  1. Find ‘universal single-copy’ orthologues across the taxonomic group ().
  2. Make a multiple alignment of each orthogroup, respectively.
- 3. Concatenate the alignments. The length of one concatenated alignment is the sum of each orthogroup alignment length.
+ 3. Concatenate the alignments. The length of one concatenated alignment is the sum of each orthogroup's MSA length.
+
+()
 # Requirements
  - Python 3
  - Bio
@@ -20,6 +22,6 @@ A possible workflow for building supermatrix:
 python3 MakeSupermatrix.py MSAfileNames.txt
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ3OTk0NywtMTU1NzU1NzY4OSwtND
+eyJoaXN0b3J5IjpbLTUwNzQ5OTUxOCwtMTU1NzU1NzY4OSwtND
 Y0NTc1MDUyLC0xMTI4NDg4NDQyXX0=
 -->
