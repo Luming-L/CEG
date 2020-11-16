@@ -20,9 +20,30 @@ A possible workflow for building supermatrix:
 # Command
 ```
 python3 MakeSupermatrix.py MSAfileNames.txt
-```
+```put
+stop_calc=0, 
+seq='', 
+ohdis = 1 - tick "粘端差异>1"; ohdis = 0 - not tick "粘端差异>1"
+simbase = 1 - tick '粘端~1'; simbase = 0 - not tick '粘端~1'. '粘端~1' means '允许粘端差异=1, 但差别必须是嘧啶对嘌呤, 如AATC-ATTC').
+wrap_let=['[\'AGG\', [4, 7]]','[\'ACC\', [-7, -4]]'] - [5'Wrap, 3'Wrap]. 5'Wrap and 3'Wrap will be added to the 5' and 3' ends of original A/B/C...(about 200bp).
+plen=60 - 'Len of oligo<'
+pno=6.0 - 'Group size: '
+bipar=0 - 'Group size: '
+qua=(0.7, -1.5, -5,  6,  18) - Quality Default
+onebyonemode=False, 
+elist='' - Avoid list of sticky ends
+danres='' - 'Warning list of strings' wrap mode
+btsiwrap=True -  self.rb_btsi.get_active() - 'Oligo Wrapping:'
+dataQueue=None
+specific='' - "Specific"
+ligvalue=1 - self.cbligv.get_active() - '连值'，'将连接判断加入设计, 即考虑被连接端靠近粘端的5个碱基组成.'
+cutvalue=1 - self.cbcutv.get_active() - '切值'，'将酶切判断加入设计, 即考虑连接端靠近粘端的几个碱基.'
+endtolerate=0 - self.cbendtolerate.get_active()
+tolvalue=0 - self.entryendtolerate.get_text() - '宽边' - '如果确定, 则允许第一条和最后一条引物的二级结构更松一些, 这样可能有利于二次拼接' - '只有在宽边被选择时有效, 这个数值是第一条和最后一条比其它引物deltaG的高出数值, 比如其它引物deltaG差值是10, 则第一条和最后一条可以使6'
+filtervalue=0 - filtervalue - '简化计算'
+vecsticklen=3 - self.vecstickylen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjc4NTgwNSwxNjg3MTU4MzI0LC0xMT
-QwODcyNDM5LC0xNTU3NTU3Njg5LC00NjQ1NzUwNTIsLTExMjg0
-ODg0NDJdfQ==
+eyJoaXN0b3J5IjpbMTAxNTQ3Nzk5NywtNTIyNzg1ODA1LDE2OD
+cxNTgzMjQsLTExNDA4NzI0MzksLTE1NTc1NTc2ODksLTQ2NDU3
+NTA1MiwtMTEyODQ4ODQ0Ml19
 -->
